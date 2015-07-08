@@ -1,0 +1,3 @@
+git commit -m commits the staging area to the repository with a message
+git status shows the which branch you are in
+git clone clones a respository to your local computer

@@ -1,0 +1,3 @@
+../ moves you up one directory
+ls lists the contents of the current directory
+pwd shows which directory you currently in
